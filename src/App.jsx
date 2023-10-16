@@ -1,7 +1,10 @@
+import Form from "./components/loginForm";
+
+
 function App() {
 
   return (
-    'Hello'
+    <Form/>
   )
   
 }
